@@ -1,6 +1,6 @@
 # TUG2020 talk on LaTeX-on-HTTP
 
-Presentation material for the LaTeX-on-HTTP talk at TUG2020.
+Presentation material for the [LaTeX-on-HTTP]() talk at TUG2020.
 
 ## Slides
 
@@ -35,6 +35,11 @@ You can also run any intermediate step of the demo. For example for the _Hello w
 ```sh
 pipenv run python stages/1-hello-world/demo.py
 ```
+
+## Related resources
+
+* LaTeX-on-HTTP: https://github.com/YtoTech/latex-on-http
+* Interactive web demo: https://latex-http-demo.ytotech.com/
 
 -------------
 

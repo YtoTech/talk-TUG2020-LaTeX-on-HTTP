@@ -1,6 +1,6 @@
 # TUG2020 talk on LaTeX-on-HTTP
 
-Presentation material for the [LaTeX-on-HTTP]() talk at TUG2020.
+Presentation material for the [LaTeX-on-HTTP]() talk at [TUG2020](https://tug.org/tug2020/).
 
 ## Slides
 

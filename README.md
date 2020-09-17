@@ -1,6 +1,8 @@
 # TUG2020 talk on LaTeX-on-HTTP
 
-Presentation material for the [LaTeX-on-HTTP]() talk at [TUG2020](https://tug.org/tug2020/).
+Presentation material for the [LaTeX-on-HTTP](https://github.com/YtoTech/latex-on-http) talk at [TUG2020](https://tug.org/tug2020/).
+
+The lecture video can be found on [Youtube](https://www.youtube.com/watch?v=tGD4upJIUgc).
 
 ## Slides
 
